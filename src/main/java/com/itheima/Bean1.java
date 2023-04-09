@@ -12,6 +12,7 @@ package com.itheima;
 public class Bean1 {
 
     private String name;
+    private String student;
 
     public Bean1() {
         System.out.println("执行无参构造器");
